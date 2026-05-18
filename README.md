@@ -1,1 +1,1 @@
-# odin-recipes
+Hi! This is a simple recipe page project to explore HTML and it's basic principles.
